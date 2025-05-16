@@ -1,6 +1,5 @@
-# ai-project
-Made a AI project
-Donut + mBART: Bridging Vision and Language for Math Recognition
+# AI-project
+AI project Donut + mBART: Bridging Vision and Language for Math Recognition
 
 Abstract:
 Mathematical notation is the universal language across education, research, and industry, yet converting mathematical images into machine-readable formats like LaTeX remains a significant challenge. Handwritten equations and scanned documents pose unique difficulties for traditional Optical Character Recognition (OCR) systems, which often fail to capture the complexity of mathematical syntax. This research introduces an innovative integration of Donut and mBART architectures to address these issues. The combined framework offers an advanced deep-learning solution for translating mathematical images into LaTeX code. The system provides precise transcription and significantly reduces the time required for manual conversion. This paper explores the model's architecture, training process, performance, and applications while addressing challenges and proposing future directions. By enhancing accessibility and efficiency, this approach can potentially transform the landscape of education, research, and professional domains, inspiring a hopeful future for mathematical image recognition.
