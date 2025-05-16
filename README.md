@@ -1,5 +1,5 @@
 # ai-project
-Made a new AI project
+Made a AI project
 Donut + mBART: Bridging Vision and Language for Math Recognition
 
 Abstract:
